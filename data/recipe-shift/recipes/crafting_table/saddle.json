@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      	"LLL",
+      	"T T"
+    ],
+    "key": {
+      	"L": {
+        	"item": "minecraft:leather"
+      	},
+      	"T": {
+        	"item": "minecraft:tripwire_hook"
+      	}
+    },
+    "result": {
+      	"item": "minecraft:saddle"
+    }
+}

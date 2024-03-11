@@ -1,0 +1,20 @@
+{
+    "pack": {
+        "pack_format": 26,
+        "description": [
+            {
+              "text": "Endermite",
+              "color": "#8d22a0"
+            },
+            "\n",
+            {
+              "text": "Created by ",
+              "color": "#888888"
+            },
+            {
+              "text": "lazerman248",
+              "color": "#cec37c"
+            }
+          ]
+    }
+}
