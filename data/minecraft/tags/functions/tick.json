@@ -1,5 +1,6 @@
 {
     "values": [
-        "recipe-shift:tick"
+        "recipe-shift:tick",
+        "day-flex:tick"
     ]
 }
