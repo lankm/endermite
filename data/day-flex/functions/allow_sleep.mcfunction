@@ -1,0 +1,2 @@
+gamerule doDaylightCycle true
+gamerule playersSleepingPercentage 100
