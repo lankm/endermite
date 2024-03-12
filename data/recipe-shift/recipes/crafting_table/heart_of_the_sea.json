@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      	"CPC",
+      	"PNP",
+        "CPC"
+    ],
+    "key": {
+      	"C": {
+        	"item": "minecraft:prismarine_crystals"
+      	},
+        "P": {
+        	"item": "minecraft:prismarine_shard"
+      	},
+        "N": {
+        	"item": "minecraft:nether_star"
+      	}
+    },
+    "result": {
+      	"item": "minecraft:heart_of_the_sea"
+    }
+}
