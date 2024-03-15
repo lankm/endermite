@@ -1,12 +1,13 @@
 {
     "type": "crafting_shaped",
+    "category": "misc",
     "pattern": [
       	"D D",
       	"DDD",
         "D D"
     ],
     "key": {
-      	"I": {
+      	"D": {
         	"item": "minecraft:diamond"
       	}
     },
