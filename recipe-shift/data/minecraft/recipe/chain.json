@@ -1,7 +1,17 @@
 {
-    "type": "crafting_shapeless",
-    "ingredients": [],
+    "type": "crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      	"I",
+      	"I",
+        "I"
+    ],
+    "key": {
+      	"I": {
+        	"item": "minecraft:iron_nugget"
+      	}
+    },
     "result": {
-        "item": "minecraft:air"
+      	"id": "minecraft:chain"
     }
 }
