@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      	"S",
+      	"G"
+    ],
+    "key": {
+      	"S": {
+        	"item": "minecraft:stick"
+      	},
+        "G": {
+            "item": "gold_ingot"
+        }
+    },
+    "result": {
+      	"id": "minecraft:bell"
+    }
+}

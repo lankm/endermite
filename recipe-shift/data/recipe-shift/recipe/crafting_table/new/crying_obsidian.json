@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "minecraft:obsidian"
+        },
+        {
+            "item": "minecraft:ghast_tear"
+        }
+    ],
+    "result": {
+        "id": "minecraft:crying_obsidian"
+    }
+}
